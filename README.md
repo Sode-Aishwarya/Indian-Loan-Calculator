@@ -1,6 +1,11 @@
 # Indian Loan Calculator (Java Swing)
 
-A GUI-based loan calculator that calculates EMI, total payment, and total interest.
+A GUI-based loan calculator that calculates EMI, total payment, and total interest in Rupees.
+
+Output:
+
+![Indian Loan Calculator GUI](images/output_image1.png)
+![Indian Loan Calculator GUI](images/output_image2.png)
 
 ## How to Run
 
