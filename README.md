@@ -19,3 +19,5 @@ java IndianLoanCalculator
 ```
 
 The GUI window will open.
+### Author 
+Sode Aishwarya(BMSIT)
